@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/maxoizs/DaleelUK#readme",
   "dependencies": {
+    "create-react-app": "^3.0.1",
     "gh-pages": "^2.0.1"
   }
 }
