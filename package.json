@@ -1,0 +1,22 @@
+{
+  "name": "daleeluk",
+  "version": "1.0.0",
+  "description": "دليل المسافرين إلي إنجلترا",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxoizs/DaleelUK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxoizs/DaleelUK/issues"
+  },
+  "homepage": "https://github.com/maxoizs/DaleelUK#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
