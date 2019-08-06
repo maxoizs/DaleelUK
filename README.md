@@ -1,4 +1,4 @@
 # DaleelUK.github.io
-دليل المسافرين إلي إنجلترا
+دليل المسافر إلي إنجلترا
 
 https://maxoizs.github.io/DaleelUK
